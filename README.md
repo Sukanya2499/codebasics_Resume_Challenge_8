@@ -42,7 +42,12 @@ The chart shows that **Mumbai** has the highest total income (335M) and spending
 
 ![Screenshot (207)](https://github.com/user-attachments/assets/09cae0b2-7be2-4cdd-bf7e-d7aa7027e833)
 
-![Screenshot (206)](https://github.com/user-attachments/assets/814caef1-e60e-4710-9121-b82dbc1956a4)
+The **25–34 age group** earns the highest income (0.47bn) with a moderate income utilisation of **43.66%**, while the **35–45 group** follows with slightly less income but the **highest utilisation rate** at **46.72%**, indicating more active spending. The **45+ group** has lower income and is the most conservative, with the **lowest utilisation** at **34.70%**. Meanwhile, the **21–24 group**, though earning the least, maintains a fairly high utilisation of **40.59%**, showing significant spending habits relative to their income.
+
+
+![Screenshot (228)](https://github.com/user-attachments/assets/44e7d548-2fff-4076-9584-7a26fcf98ebb)
+
+Credit Cards show the highest income utilisation at 17.45%, indicating users spend a larger portion of their income through them. UPI follows with 11.36%, reflecting growing adoption and usage. Debit Cards show moderate use at 9.64%, while Net Banking is the least utilized at 4.37%, suggesting a shift towards faster and more convenient digital payment modes. All payment types reflect equal income distribution (1.24bn), highlighting spending preferences over earning variations.
 
 ![Screenshot (205)](https://github.com/user-attachments/assets/59abdde5-1510-46fe-abc4-29f8861a871a)
 
