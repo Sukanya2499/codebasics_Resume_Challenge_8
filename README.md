@@ -32,7 +32,7 @@ The chart indicates that male customers outnumber female customers across all oc
 
 Spend Analysis of Customers
 
-![Screenshot (209)](https://github.com/user-attachments/assets/0e45874e-556c-4cd3-bc2b-b98dd749275e)
+![Screenshot (209)](https://github.com/user-attachments/assets/9504e71e-63dd-4c58-b1e3-8e463c3a3bb1)
 
 The chart shows that **Salaried IT Employees** have the highest total income (0.48bn) and spending (0.24bn), with an income utilization rate of **51.04%**, the highest among all occupations. **Government Employees** have the lowest income (0.12bn), spend the least (0.04bn), and also have the **lowest income utilization rate (29%)**. **Business Owners** have a relatively high income but the **lowest utilization rate (33.22%)**, suggesting they spend conservatively relative to their earnings.
 
@@ -51,8 +51,93 @@ Credit Cards show the highest income utilisation at 17.45%, indicating users spe
 
 ![Screenshot (205)](https://github.com/user-attachments/assets/59abdde5-1510-46fe-abc4-29f8861a871a)
 
+Among all spending categories, Bills show the highest income utilisation at 8.46%, followed by Groceries (6.96%) and Electronics (6.42%), indicating essential and semi-essential expenses dominate spending. Categories like Others (1.29%), Apparel (2.75%), and Entertainment (3.33%) show the lowest utilisation, suggesting they are less prioritized.
+
 ![Screenshot (204)](https://github.com/user-attachments/assets/010bb1fb-1d36-4921-9bcc-c9966876ed7b)
+
+Males have a higher total income (**0.80bn**) and spending (**0.36bn**) compared to females (**0.44bn income, 0.17bn spend**). However, **males also show a higher income utilisation percentage (44.39%)** than females (**39.92%**), indicating that males are utilizing a larger portion of their income for expenses.
 
 ![Screenshot (203)](https://github.com/user-attachments/assets/c34915ee-37a9-4b1a-a98b-ede10c5343e3)
 
+**Married individuals** have a significantly higher total income (**1.00bn**) and spending (**0.43bn**) compared to **single individuals** (**0.24bn income, 0.10bn spend**). Despite this, **income utilisation is nearly the same** for both groups, with **singles slightly higher at 43.06%** versus **42.77% for married** individuals.
+
 ![Screenshot (202)](https://github.com/user-attachments/assets/ee651b34-ea56-4383-ac56-357ba67806c1)
+
+Despite total income remaining constant (1.24bn) across all months, income utilisation % and spending fluctuate.
+September has the highest utilisation (9.35%) and highest spending (0.12bn).
+May sees the lowest utilisation (5.50%) and lowest spending (0.07bn).
+There’s a clear dip in spending and utilisation mid-year (May–June), followed by a sharp rise toward September and October, indicating seasonal or cyclical spending behavior.
+
+
+## To boost credit card adoption, focus on increasing income utilisation % by targeting low-spend segments:
+
+# By Category:
+Encourage credit card use in low-utilisation categories like Apparel (2.75%), Entertainment (3.33%), and Others (1.29%) through category-specific rewards (e.g., cashback, discounts).
+
+# By Gender:
+Females (39.92%) have slightly lower utilisation than males (44.39%). Offer tailored perks like online shopping deals or lifestyle rewards.
+
+# By Marital Status:
+Singles (43.06%) have slightly higher utilisation than married (42.77%), but income is lower. Promote flexible credit products for singles to boost usage.
+
+# By Month:
+Spend is lowest in May (5.50%) and June (6.40%). Run seasonal promotions (e.g., bonus points or EMI offers) during low-utilisation months.
+
+## Spending Insights & Targeted Credit Card Suggestions
+# Top Spending Categories
+Bills (8.46%) and Groceries (6.96%) have the highest income utilisation %.
+Add features like bill payment cashback, grocery rewards, or utility auto-pay options.
+
+# By Gender
+Males spend more overall (₹0.36bn vs. ₹0.17bn) and have a slightly higher utilisation %.
+Offer premium card variants with travel, fuel, or lifestyle perks.
+Females may benefit from shopping, wellness, or cashback offers to encourage usage.
+
+# By Marital Status
+Both single and married customers have similar utilisation %, but married users have higher total income and spend.
+Introduce family-centric cards or co-branded partner offers for married users.
+
+# By Month
+Spending peaks in September (9.35%), dips in May–June.
+Use targeted campaigns or limited-time offers during low-spending months to drive usage.
+
+# City & Occupation (based on typical trends)
+Tailor card features: offer travel perks for frequent flyers (from metro cities), fuel cashback for commuters, and lifestyle rewards for professionals.
+
+## Data-Driven Recommendations
+# Category-Specific Rewards
+Offer higher cashback or rewards in top spending areas:
+
+Bills (8.46% income utilization)
+
+Groceries (6.96%)
+
+Electronics (6.42%)​
+
+This aligns rewards with customers' primary spending habits, encouraging more frequent card use.
+
+# Demographic-Based Incentives
+
+# Gender: Males have higher spending; tailor premium travel or fuel rewards.
+
+# Marital Status: Married individuals have higher income and spend; offer family-oriented benefits.
+
+# Age Group: 25–34 age group shows highest spending; introduce lifestyle perks appealing to this demographic.​
+
+# Seasonal Promotions
+Utilize months with lower spending (e.g., May and June) to launch limited-time offers, boosting usage during these periods.
+
+## Industry Insights
+# Personalized Offers
+Leverage data analytics to provide tailored promotions, enhancing relevance and engagement .
+
+# Frictionless Experience
+Implement contactless payments and seamless digital integration to make card usage more convenient .
+
+# Enhanced Mobile App Features
+Develop apps that offer instant virtual card replacements, transaction insights, and easy account management to increase user trust and satisfaction .
+
+# Trust and Security Measures
+Provide real-time alerts and robust fraud protection to build consumer confidence in using credit cards .
+
+
